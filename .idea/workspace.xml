@@ -1,0 +1,143 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="bb2f6a2f-63d7-428a-b7dc-a17b5066c03e" name="Changes" comment="chore: init kotlin multiplatform project">
+      <change beforePath="$PROJECT_DIR$/Simple_chat_app/.gitignore" beforeDir="false" afterPath="$PROJECT_DIR$/Frontend/.gitignore" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Simple_chat_app/README.md" beforeDir="false" afterPath="$PROJECT_DIR$/Frontend/README.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Simple_chat_app/androidApp/build.gradle.kts" beforeDir="false" afterPath="$PROJECT_DIR$/Frontend/androidApp/build.gradle.kts" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Simple_chat_app/androidApp/proguard-rules.pro" beforeDir="false" afterPath="$PROJECT_DIR$/Frontend/androidApp/proguard-rules.pro" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Simple_chat_app/androidApp/src/main/AndroidManifest.xml" beforeDir="false" afterPath="$PROJECT_DIR$/Frontend/androidApp/src/main/AndroidManifest.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Simple_chat_app/androidApp/src/main/kotlin/com/example/simple_chat_app/MainActivity.kt" beforeDir="false" afterPath="$PROJECT_DIR$/Frontend/androidApp/src/main/kotlin/com/example/simple_chat_app/MainActivity.kt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Simple_chat_app/androidApp/src/main/res/drawable-v24/ic_launcher_foreground.xml" beforeDir="false" afterPath="$PROJECT_DIR$/Frontend/androidApp/src/main/res/drawable-v24/ic_launcher_foreground.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Simple_chat_app/androidApp/src/main/res/drawable/ic_launcher_background.xml" beforeDir="false" afterPath="$PROJECT_DIR$/Frontend/androidApp/src/main/res/drawable/ic_launcher_background.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Simple_chat_app/androidApp/src/main/res/mipmap-anydpi-v26/ic_launcher.xml" beforeDir="false" afterPath="$PROJECT_DIR$/Frontend/androidApp/src/main/res/mipmap-anydpi-v26/ic_launcher.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Simple_chat_app/androidApp/src/main/res/mipmap-anydpi-v26/ic_launcher_round.xml" beforeDir="false" afterPath="$PROJECT_DIR$/Frontend/androidApp/src/main/res/mipmap-anydpi-v26/ic_launcher_round.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Simple_chat_app/androidApp/src/main/res/mipmap-hdpi/ic_launcher.png" beforeDir="false" afterPath="$PROJECT_DIR$/Frontend/androidApp/src/main/res/mipmap-hdpi/ic_launcher.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Simple_chat_app/androidApp/src/main/res/mipmap-hdpi/ic_launcher_round.png" beforeDir="false" afterPath="$PROJECT_DIR$/Frontend/androidApp/src/main/res/mipmap-hdpi/ic_launcher_round.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Simple_chat_app/androidApp/src/main/res/mipmap-mdpi/ic_launcher.png" beforeDir="false" afterPath="$PROJECT_DIR$/Frontend/androidApp/src/main/res/mipmap-mdpi/ic_launcher.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Simple_chat_app/androidApp/src/main/res/mipmap-mdpi/ic_launcher_round.png" beforeDir="false" afterPath="$PROJECT_DIR$/Frontend/androidApp/src/main/res/mipmap-mdpi/ic_launcher_round.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Simple_chat_app/androidApp/src/main/res/mipmap-xhdpi/ic_launcher.png" beforeDir="false" afterPath="$PROJECT_DIR$/Frontend/androidApp/src/main/res/mipmap-xhdpi/ic_launcher.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Simple_chat_app/androidApp/src/main/res/mipmap-xhdpi/ic_launcher_round.png" beforeDir="false" afterPath="$PROJECT_DIR$/Frontend/androidApp/src/main/res/mipmap-xhdpi/ic_launcher_round.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Simple_chat_app/androidApp/src/main/res/mipmap-xxhdpi/ic_launcher.png" beforeDir="false" afterPath="$PROJECT_DIR$/Frontend/androidApp/src/main/res/mipmap-xxhdpi/ic_launcher.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Simple_chat_app/androidApp/src/main/res/mipmap-xxhdpi/ic_launcher_round.png" beforeDir="false" afterPath="$PROJECT_DIR$/Frontend/androidApp/src/main/res/mipmap-xxhdpi/ic_launcher_round.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Simple_chat_app/androidApp/src/main/res/mipmap-xxxhdpi/ic_launcher.png" beforeDir="false" afterPath="$PROJECT_DIR$/Frontend/androidApp/src/main/res/mipmap-xxxhdpi/ic_launcher.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Simple_chat_app/androidApp/src/main/res/mipmap-xxxhdpi/ic_launcher_round.png" beforeDir="false" afterPath="$PROJECT_DIR$/Frontend/androidApp/src/main/res/mipmap-xxxhdpi/ic_launcher_round.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Simple_chat_app/androidApp/src/main/res/values/strings.xml" beforeDir="false" afterPath="$PROJECT_DIR$/Frontend/androidApp/src/main/res/values/strings.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Simple_chat_app/build.gradle.kts" beforeDir="false" afterPath="$PROJECT_DIR$/Frontend/build.gradle.kts" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Simple_chat_app/desktopApp/build.gradle.kts" beforeDir="false" afterPath="$PROJECT_DIR$/Frontend/desktopApp/build.gradle.kts" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Simple_chat_app/desktopApp/src/main/kotlin/com/example/simple_chat_app/main.kt" beforeDir="false" afterPath="$PROJECT_DIR$/Frontend/desktopApp/src/main/kotlin/com/example/simple_chat_app/main.kt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Simple_chat_app/gradle.properties" beforeDir="false" afterPath="$PROJECT_DIR$/Frontend/gradle.properties" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Simple_chat_app/gradle/gradle-daemon-jvm.properties" beforeDir="false" afterPath="$PROJECT_DIR$/Frontend/gradle/gradle-daemon-jvm.properties" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Simple_chat_app/gradle/libs.versions.toml" beforeDir="false" afterPath="$PROJECT_DIR$/Frontend/gradle/libs.versions.toml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Simple_chat_app/gradle/wrapper/gradle-wrapper.jar" beforeDir="false" afterPath="$PROJECT_DIR$/Frontend/gradle/wrapper/gradle-wrapper.jar" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Simple_chat_app/gradle/wrapper/gradle-wrapper.properties" beforeDir="false" afterPath="$PROJECT_DIR$/Frontend/gradle/wrapper/gradle-wrapper.properties" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Simple_chat_app/gradlew" beforeDir="false" afterPath="$PROJECT_DIR$/Frontend/gradlew" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Simple_chat_app/gradlew.bat" beforeDir="false" afterPath="$PROJECT_DIR$/Frontend/gradlew.bat" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Simple_chat_app/settings.gradle.kts" beforeDir="false" afterPath="$PROJECT_DIR$/Frontend/settings.gradle.kts" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Simple_chat_app/shared/build.gradle.kts" beforeDir="false" afterPath="$PROJECT_DIR$/Frontend/shared/build.gradle.kts" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Simple_chat_app/shared/src/androidHostTest/kotlin/com/example/simple_chat_app/SharedLogicAndroidHostTest.kt" beforeDir="false" afterPath="$PROJECT_DIR$/Frontend/shared/src/androidHostTest/kotlin/com/example/simple_chat_app/SharedLogicAndroidHostTest.kt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Simple_chat_app/shared/src/androidMain/kotlin/com/example/simple_chat_app/Platform.android.kt" beforeDir="false" afterPath="$PROJECT_DIR$/Frontend/shared/src/androidMain/kotlin/com/example/simple_chat_app/Platform.android.kt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Simple_chat_app/shared/src/commonMain/composeResources/drawable/compose-multiplatform.xml" beforeDir="false" afterPath="$PROJECT_DIR$/Frontend/shared/src/commonMain/composeResources/drawable/compose-multiplatform.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Simple_chat_app/shared/src/commonMain/kotlin/com/example/simple_chat_app/App.kt" beforeDir="false" afterPath="$PROJECT_DIR$/Frontend/shared/src/commonMain/kotlin/com/example/simple_chat_app/App.kt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Simple_chat_app/shared/src/commonMain/kotlin/com/example/simple_chat_app/Greeting.kt" beforeDir="false" afterPath="$PROJECT_DIR$/Frontend/shared/src/commonMain/kotlin/com/example/simple_chat_app/Greeting.kt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Simple_chat_app/shared/src/commonMain/kotlin/com/example/simple_chat_app/GreetingUtil.kt" beforeDir="false" afterPath="$PROJECT_DIR$/Frontend/shared/src/commonMain/kotlin/com/example/simple_chat_app/GreetingUtil.kt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Simple_chat_app/shared/src/commonMain/kotlin/com/example/simple_chat_app/Platform.kt" beforeDir="false" afterPath="$PROJECT_DIR$/Frontend/shared/src/commonMain/kotlin/com/example/simple_chat_app/Platform.kt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Simple_chat_app/shared/src/commonTest/kotlin/com/example/simple_chat_app/SharedCommonTest.kt" beforeDir="false" afterPath="$PROJECT_DIR$/Frontend/shared/src/commonTest/kotlin/com/example/simple_chat_app/SharedCommonTest.kt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Simple_chat_app/shared/src/jvmMain/kotlin/com/example/simple_chat_app/Platform.jvm.kt" beforeDir="false" afterPath="$PROJECT_DIR$/Frontend/shared/src/jvmMain/kotlin/com/example/simple_chat_app/Platform.jvm.kt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Simple_chat_app/shared/src/jvmTest/kotlin/com/example/simple_chat_app/SharedLogicDesktopTest.kt" beforeDir="false" afterPath="$PROJECT_DIR$/Frontend/shared/src/jvmTest/kotlin/com/example/simple_chat_app/SharedLogicDesktopTest.kt" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="KmpPackageLockUpdaterState">{
+  &quot;jsModulesKotlinGradlePluginVersion&quot;: {},
+  &quot;wasmModulesKotlinGradlePluginVersion&quot;: {}
+}</component>
+  <component name="ProjectColorInfo">{
+  &quot;associatedIndex&quot;: 4,
+  &quot;fromUser&quot;: false
+}</component>
+  <component name="ProjectId" id="3K2Us6lrfn6CwZFgQNLFaAqnEei" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "CidrDebugProfileConversion": "true",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "RunOnceActivity.cidr.known.project.marker": "true",
+    "RunOnceActivity.git.unshallow": "true",
+    "RunOnceActivity.readMode.enableVisualFormatting": "true",
+    "RunOnceActivity.typescript.service.memoryLimit.init": "true",
+    "cidr.known.project.marker": "true",
+    "codeWithMe.voiceChat.enabledByDefault": "false",
+    "git-widget-placeholder": "main",
+    "kotlin-language-version-configured": "true",
+    "last_opened_file_path": "/home/rafilaos/IdeaProjects/Simple_chat_app",
+    "node.js.detected.package.eslint": "true",
+    "node.js.detected.package.jshint": "true",
+    "node.js.detected.package.tslint": "true",
+    "node.js.selected.package.eslint": "(autodetect)",
+    "node.js.selected.package.jshint": "",
+    "node.js.selected.package.tslint": "(autodetect)",
+    "nodejs_package_manager_path": "npm",
+    "settings.editor.selected.configurable": "reference.settingsdialog.IDE.editor.colors.com.intellij.openapi.options.colors.pages.JavaColorSettingsPage"
+  }
+}]]></component>
+  <component name="RecentsManager">
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$" />
+    </key>
+  </component>
+  <component name="RunManager">
+    <configuration default="true" type="JetRunConfigurationType">
+      <module name="Simple_chat_app" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration default="true" type="KotlinStandaloneScriptRunConfigurationType">
+      <module name="Simple_chat_app" />
+      <option name="filePath" />
+      <method v="2" />
+    </configuration>
+  </component>
+  <component name="SharedIndexes">
+    <attachedChunks>
+      <set>
+        <option value="bundled-jdk-30f59d01ecdd-a203e0a19954-intellij.indexing.shared.core-IU-262.10968.63" />
+        <option value="bundled-js-predefined-d6986cc7102b-4abd2a77f808-JavaScript-IU-262.10968.63" />
+      </set>
+    </attachedChunks>
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="bb2f6a2f-63d7-428a-b7dc-a17b5066c03e" name="Changes" comment="" />
+      <created>1790755360166</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1790755360166</updated>
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="chore: init kotlin multiplatform project" />
+    <option name="LAST_COMMIT_MESSAGE" value="chore: init kotlin multiplatform project" />
+  </component>
+  <component name="XSLT-Support.FileAssociations.UIState">
+    <expand />
+    <select />
+  </component>
+</project>
